@@ -1,0 +1,18 @@
+<RCC>
+    <qresource prefix="/">
+        <file>qml/qmlaxes/main.qml</file>
+        <file>qml/qmlaxes/home.png</file>
+        <file>qml/qmlaxes/IconButton.qml</file>
+        <file>qml/qmlaxes/styling.xml</file>
+        <file>qml/qmlaxes/alarmSettings.png</file>
+        <file>qml/qmlaxes/procedure.png</file>
+        <file>qml/qmlaxes/process.png</file>
+        <file>qml/qmlaxes/Numerics.qml</file>
+        <file>qml/qmlaxes/alarm.png</file>
+        <file>qml/qmlaxes/settings.png</file>
+        <file>qml/qmlaxes/Charts.qml</file>
+        <file>qml/qmlaxes/VentButton.qml</file>
+        <file>qml/qmlaxes/Rect.qml</file>
+        <file>qml/qmlaxes/RectGroup.qml</file>
+    </qresource>
+</RCC>
